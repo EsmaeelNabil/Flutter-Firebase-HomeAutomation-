@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299241045837",
+    "firebase_url": "https://smart-home-iot-9c53c.firebaseio.com",
+    "project_id": "smart-home-iot-9c53c",
+    "storage_bucket": "smart-home-iot-9c53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299241045837:android:89c533766a1ab46e128104",
+        "android_client_info": {
+          "package_name": "com.esmaeel.homeautomtion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299241045837-0b02ommsrre6r30c54flfb62inev8rdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esmaeel.homeautomtion",
+            "certificate_hash": "3ca3a79567ff354f3975baf1986855b1ccc857a2"
+          }
+        },
+        {
+          "client_id": "299241045837-ofv56qjb1c6hh1p85k90ksbhcdg3rupg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6yfiC3fVHvLPSGkEIDzbCt1BppsA6d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299241045837-ofv56qjb1c6hh1p85k90ksbhcdg3rupg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
